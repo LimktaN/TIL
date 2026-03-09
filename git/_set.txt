@@ -1,0 +1,12 @@
+처음 깃헙 세팅할때, 전역 설정으로 이름과 이메일을 입력할 것
+
+git config -- global user.name LimktaN
+git config -- global user.email qz2012@naver.com
+
+깃헙 명령어
+
+- push: 원격 저장소에 업로드하는 작업
+- pull: 반대로 원격 저장소에 있는 걸 다운로드하는 작업 (fetch + merge)
+- init: 로컬 저장소에서만 버전 관리 작업을 하는 것
+- add: 업로드할 작업을 선택하는 것
+- checkout: 특정 버전의 코드를 확인하기 위한 작업
