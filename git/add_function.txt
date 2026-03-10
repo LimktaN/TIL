@@ -1,3 +1,5 @@
 add_function
 
 feat #2 issue complete
+
+1 plus 1 is cute
