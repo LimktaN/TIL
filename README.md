@@ -6,8 +6,6 @@ Today I Learned.
 
 제가 매일 배운 내용을 정리하는 공간입니다.
 
-----
-
 ## 🗺️ Study Roadmap
 
 | Progress | Version | Language | Notes |
