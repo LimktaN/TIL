@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="08025001_HelloWorld/08025001_HelloWorld.vcxproj" Id="15cbb435-2186-4b25-bea0-9aef72c8143f" />
-  <Project Path="09032001_HelloWorldMemo/09032001_HelloWorldMemo.vcxproj" Id="07057348-9c7e-4a11-9abd-a14960795418" />
+  <Project Path="025001_HelloWorld/025001_HelloWorld.vcxproj" Id="f95827a2-6b71-4616-9ec5-7820047ca2f6" />
+  <Project Path="032001_Commentary/032001_Commentary.vcxproj" Id="a85b8186-54b7-4760-beb4-1af274985444" />
 </Solution>
