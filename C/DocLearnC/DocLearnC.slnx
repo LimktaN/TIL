@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="08025001_HelloWorld/08025001_HelloWorld.vcxproj" Id="15cbb435-2186-4b25-bea0-9aef72c8143f" />
+  <Project Path="09032001_HelloWorldMemo/09032001_HelloWorldMemo.vcxproj" Id="07057348-9c7e-4a11-9abd-a14960795418" />
+</Solution>
