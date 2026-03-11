@@ -53,3 +53,19 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Visual Studio 임시 폴더 및 캐시
+.vs/
+
+# 빌드 결과물 (실행 파일 및 목적 파일)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.log
+
+# 프로젝트 개인 설정 파일
+*.vcxproj.user
