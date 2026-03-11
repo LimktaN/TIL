@@ -24,6 +24,7 @@
     <ProjectGuid>{07057348-9c7e-4a11-9abd-a14960795418}</ProjectGuid>
     <RootNamespace>My09032001HelloWorldMemo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>032001_HelloWorldMemo</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
