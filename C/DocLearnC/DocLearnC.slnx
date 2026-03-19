@@ -7,4 +7,5 @@
   <Project Path="032001_Commentary/032001_Commentary.vcxproj" Id="a85b8186-54b7-4760-beb4-1af274985444" />
   <Project Path="034001_getcharSample/034001_getcharSample.vcxproj" Id="4f8f36f4-2fbd-4767-baf0-ca689c78d4e5" />
   <Project Path="034002_getchSample/034002_getchSample.vcxproj" Id="f20e1e07-8e60-4284-a71a-dd3782e04766" />
+  <Project Path="035001_getsSample/035001_getsSample.vcxproj" Id="c56237ca-73f4-48f2-8638-66a4951c1328" />
 </Solution>
