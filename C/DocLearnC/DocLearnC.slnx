@@ -8,4 +8,10 @@
   <Project Path="034001_getcharSample/034001_getcharSample.vcxproj" Id="4f8f36f4-2fbd-4767-baf0-ca689c78d4e5" />
   <Project Path="034002_getchSample/034002_getchSample.vcxproj" Id="f20e1e07-8e60-4284-a71a-dd3782e04766" />
   <Project Path="035001_getsSample/035001_getsSample.vcxproj" Id="c56237ca-73f4-48f2-8638-66a4951c1328" />
+  <Project Path="037001_printfSample/037001_printfSample.vcxproj" Id="3603ef0e-1220-4da1-86b2-f1a70fae8f38" />
+  <Project Path="037002_formatSample/037002_formatSample.vcxproj" Id="ce0c889c-b230-499e-86fc-88adf36bd778" />
+  <Project Path="038001_floatFormat/038001_floatFormat.vcxproj" Id="53d96eb0-0ec0-4784-a6b4-77c69d826eb9" />
+  <Project Path="039001_scanfChar/039001_scanfChar.vcxproj" Id="a3fef2c2-1b60-47aa-be1b-c7d87b48168f" />
+  <Project Path="040001_stringSample/040001_stringSample.vcxproj" Id="e4dd0617-576c-47f4-b7b6-a248211c6323" />
+  <Project Path="041001_NameAge/041001_NameAge.vcxproj" Id="a169e4fa-1c26-4e28-9b02-1b599b851ce3" />
 </Solution>
