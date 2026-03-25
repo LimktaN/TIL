@@ -14,4 +14,10 @@
   <Project Path="039001_scanfChar/039001_scanfChar.vcxproj" Id="a3fef2c2-1b60-47aa-be1b-c7d87b48168f" />
   <Project Path="040001_stringSample/040001_stringSample.vcxproj" Id="e4dd0617-576c-47f4-b7b6-a248211c6323" />
   <Project Path="041001_NameAge/041001_NameAge.vcxproj" Id="a169e4fa-1c26-4e28-9b02-1b599b851ce3" />
+  <Project Path="043001_addSample/043001_addSample.vcxproj" Id="527590e3-80e1-4834-84ba-8836f02e9ed5" />
+  <Project Path="043002_tmpResult/043002_tmpResult.vcxproj" Id="ba7c64aa-40fa-4c5c-b300-ee5d2ea895c7" />
+  <Project Path="043003_modSample/043003_modSample.vcxproj" Id="5c619e55-5987-4474-997d-ca179d4aad9d" />
+  <Project Path="046001_Average/046001_Average.vcxproj" Id="f98a494d-7745-435d-aada-c69633a818b5" />
+  <Project Path="047001_time/047001_time.vcxproj" Id="d31a8fd2-9577-4b6d-9733-83c1344d5c6e" />
+  <Project Path="049001_swapNumbers/049001_swapNumbers.vcxproj" Id="9baf9710-30b7-4bd5-b63f-96325d6f779b" />
 </Solution>
