@@ -20,4 +20,6 @@
   <Project Path="046001_Average/046001_Average.vcxproj" Id="f98a494d-7745-435d-aada-c69633a818b5" />
   <Project Path="047001_time/047001_time.vcxproj" Id="d31a8fd2-9577-4b6d-9733-83c1344d5c6e" />
   <Project Path="049001_swapNumbers/049001_swapNumbers.vcxproj" Id="9baf9710-30b7-4bd5-b63f-96325d6f779b" />
+  <Project Path="051001_SumThreeInts/051001_SumThreeInts.vcxproj" Id="db009063-832e-456c-8e7c-bfe744ba289f" />
+  <Project Path="055001_minus/055001_minus.vcxproj" Id="fd6d4f43-caf9-4773-85b1-5cac2f0247b1" />
 </Solution>
