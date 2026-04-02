@@ -22,4 +22,10 @@
   <Project Path="049001_swapNumbers/049001_swapNumbers.vcxproj" Id="9baf9710-30b7-4bd5-b63f-96325d6f779b" />
   <Project Path="051001_SumThreeInts/051001_SumThreeInts.vcxproj" Id="db009063-832e-456c-8e7c-bfe744ba289f" />
   <Project Path="055001_minus/055001_minus.vcxproj" Id="fd6d4f43-caf9-4773-85b1-5cac2f0247b1" />
+  <Project Path="061001_pass-fail-determination/061001_pass-fail-determination.vcxproj" Id="0339175e-555a-459c-896e-d9a577b8d156" />
+  <Project Path="062001_survival-max-finder/062001_survival-max-finder.vcxproj" Id="d5a0fa84-076e-4fa1-8686-0ba9b663eba8" />
+  <Project Path="063001_tournament-max-finder/063001_tournament-max-finder.vcxproj" Id="3705bee7-6841-42ae-bb3c-d61b6f47397c" />
+  <Project Path="065001_if_max_finder/065001_if_max_finder.vcxproj" Id="3e1a36fe-7a0b-4ec8-8753-8ee38a740d37" />
+  <Project Path="066001_bus-fare-calculator/066001_bus-fare-calculator.vcxproj" Id="3fe488ad-9286-460e-bb61-7e1cfab8d838" />
+  <Project Path="069001_if_else_bus_fare_calculator/069001_if_else_bus_fare_calculator.vcxproj" Id="cbb37c13-dc51-46e3-8b02-69c3968c1b26" />
 </Solution>
