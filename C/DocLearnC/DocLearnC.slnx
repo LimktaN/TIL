@@ -35,4 +35,8 @@
   <Project Path="084002_array_min_change/084002_array_min_change.vcxproj" Id="6b678b90-cefa-4801-add8-adca718f4794" />
   <Project Path="085001_bubble_sort/085001_bubble_sort.vcxproj" Id="e0d001ba-251e-4736-92b0-5741b8c607ad" />
   <Project Path="086001_select_sort/086001_select_sort.vcxproj" Id="4d9fbf4b-eb27-43a9-9416-f220bb73148a" />
+  <Project Path="087001_two_dimensional_array_sum/087001_two_dimensional_array_sum.vcxproj" Id="427941f0-2293-42f0-bdab-75a55d13e601" />
+  <Project Path="087002_two_dimensional_array_count/087002_two_dimensional_array_count.vcxproj" Id="d9c1299f-50b4-4aab-b9d7-83796e69609e" />
+  <Project Path="088001_two_dimensional_array_count_reverse/088001_two_dimensional_array_count_reverse.vcxproj" Id="f2046300-4fa2-483a-a09b-fef572f383d0" />
+  <Project Path="088002_two_dimensional_array_count_snail/088002_two_dimensional_array_count_snail.vcxproj" Id="2ce63291-7ce8-4d4f-8f03-f972bfe99fb3" />
 </Solution>
