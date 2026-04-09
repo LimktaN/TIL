@@ -31,4 +31,8 @@
   <Project Path="075001_while-star-printer/075001_while-star-printer.vcxproj" Id="e454b652-13b2-4585-b601-1db8660865b4" />
   <Project Path="076001_for_gugudan/076001_for_gugudan.vcxproj" Id="3623c4f2-8348-4b3a-9f2a-e66d0b39da37" />
   <Project Path="077001_for_while_sum/077001_for_while_sum.vcxproj" Id="49270064-357b-4efc-ba38-3f6550e54384" />
+  <Project Path="084001_array_max_finder/084001_array_max_finder.vcxproj" Id="e96317b7-5fcc-4f9b-a0de-47cfe35224d8" />
+  <Project Path="084002_array_min_change/084002_array_min_change.vcxproj" Id="6b678b90-cefa-4801-add8-adca718f4794" />
+  <Project Path="085001_bubble_sort/085001_bubble_sort.vcxproj" Id="e0d001ba-251e-4736-92b0-5741b8c607ad" />
+  <Project Path="086001_select_sort/086001_select_sort.vcxproj" Id="4d9fbf4b-eb27-43a9-9416-f220bb73148a" />
 </Solution>
