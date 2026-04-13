@@ -40,4 +40,5 @@
   <Project Path="088001_two_dimensional_array_count_reverse/088001_two_dimensional_array_count_reverse.vcxproj" Id="f2046300-4fa2-483a-a09b-fef572f383d0" />
   <Project Path="088002_two_dimensional_array_count_snail/088002_two_dimensional_array_count_snail.vcxproj" Id="2ce63291-7ce8-4d4f-8f03-f972bfe99fb3" />
   <Project Path="092001_max-value-finder-func/092001_max-value-finder-func.vcxproj" Id="6ff134f4-5425-49ef-b0af-1c687b711533" />
+  <Project Path="101001_memory_copy_debugger/101001_memory_copy_debugger.vcxproj" Id="609f2c0d-0637-4b78-8691-b873771b7062" />
 </Solution>
