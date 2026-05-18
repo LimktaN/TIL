@@ -1,3 +1,5 @@
+### C
+
 # Prerequisites
 *.d
 
@@ -69,3 +71,66 @@ x86/
 
 # 프로젝트 개인 설정 파일
 *.vcxproj.user
+
+
+### Python
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+
+
+# Byte-compiled / optimized / DLL objects
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+
+# Environments and secret keys
+.env
+.env.local
+.env.*
+*.secret
+secrets.json
+
+
+# Distribution / packaging
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pytest / Coverage / QA
+.pytest_cache/
+.htmlcov/
+htmlcov/
+.tox/
+.nosexy/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.ruff_cache/
+.mypy_cache/
+
