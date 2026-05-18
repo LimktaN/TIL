@@ -11,7 +11,7 @@ Today I Learned.
 | Progress | Language | Notes |
 |----------|----------|-------|
 | ✅ **Done** | Git | GitHub 세팅 완료 |
-| ⏳ **In Progress** | C | 57.72% |
-| 📋 **Planned** | Python | Python 기초부터 심화까지 |
+| ✅ **Done** | C | 기초 학습 완료 |
+| ⏳ **In Progress** | Python | Python 기초부터 심화까지 |
 | 📋 **Planned** | Web Fullstack | 자동화 QA를 위한 기초 공부 |
 | 📋 **Planned** | QA Automation | 웹 자동화 Q A 실습 |
