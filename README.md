@@ -1,4 +1,4 @@
-﻿###### Last Updated: 2026-03-12
+﻿###### Last Updated: 2026-05-20
 
 # 📚 TIL
 
@@ -12,6 +12,6 @@ Today I Learned.
 |----------|----------|-------|
 | ✅ **Done** | Git | GitHub 세팅 완료 |
 | ✅ **Done** | C | 기초 학습 완료 |
-| ⏳ **In Progress** | Python | Python 기초부터 심화까지 |
+| ⏳ **In Progress** | Python | 32% |
 | 📋 **Planned** | Web Fullstack | 자동화 QA를 위한 기초 공부 |
 | 📋 **Planned** | QA Automation | 웹 자동화 Q A 실습 |
